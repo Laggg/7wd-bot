@@ -1,4 +1,4 @@
-# 7wd-bot
+# RL based agent for board card game «‎7 Wonders: Duel»
 
 ## Requirements
 
