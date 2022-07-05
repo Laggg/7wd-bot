@@ -1,6 +1,8 @@
-## RL agent for board card game «‎7 Wonders: Duel»
+## RL agent for board card game «7 Wonders: Duel»
 
 ![](demo/7wd_1.png)
+
+We present our bot (based on reinforcement learning) for game [online platform](https://7wd.io/welcome)
 
 ![](demo/7wd_2.png)
 
