@@ -8,7 +8,16 @@ we use Monte Carlo Tree Search (MCTS) with Behavior Cloning (BC) finishers. For 
 
 ### Game finisher
 
-Game finisher is a policy model, which can choose action in some game state: **action = Model(state)**. 
+Game finisher is a policy model, which can choose action in some game state: **action = Model(state)**.
+
+Posible Action - each received card can be
+- built
+- discarded for coins
+- used to create a world wonder
+ 
+State consist of:
+- the strength of each of the players
+- c
 
 ![](demo/7wd_2.png)
 
