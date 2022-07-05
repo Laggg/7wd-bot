@@ -3,7 +3,7 @@
 ![](demo/7wd_1.png)
 
 We present our bot (based on reinforcement learning) for board card game «7 Wonders: Duel» embedded in this [online platform](https://7wd.io/welcome).
-Our approach шы similar to the [DeepMind's AlphaGo solution](https://www.youtube.com/watch?v=Z1BELqFQZVM&ab_channel=TheAIEpiphany):
+Our approach is similar to the [DeepMind's AlphaGo solution](https://www.youtube.com/watch?v=Z1BELqFQZVM&ab_channel=TheAIEpiphany):
 we use MCTS with Behavior Cloning.
 
 ![](demo/7wd_2.png)
