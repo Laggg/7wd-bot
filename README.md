@@ -1,5 +1,4 @@
-# RL based agent for board card game «‎7 Wonders: Duel»
-
+## RL agent for board card game «‎7 Wonders: Duel»
 
 ![](demo/7wd_1.png)
 
