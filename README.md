@@ -6,6 +6,9 @@ We present our bot (based on reinforcement learning algorithms) for board card g
 Our approach is similar to the [DeepMind's AlphaGo solution](https://www.deepmind.com/publications/mastering-the-game-of-go-with-deep-neural-networks-tree-search):
 we use Monte Carlo Tree Search (MCTS) with Behavior Cloning (BC) finishers.
 
+For building tree search graph we use [7wd-engine](https://github.com/dfomin/7wd-engine) which was created by [@dfomin](https://github.com/dfomin).
+For training game finisher we use ~8000 games of real players.
+
 ![](demo/7wd_2.png)
 
 ## Requirements
