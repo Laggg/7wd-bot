@@ -21,4 +21,4 @@ Game finisher is a policy model, which can choose action in some game state. 'ac
 
 - Clone https://github.com/dfomin/7wd-engine
 - Add 7wd-engine to PYTHONPATH or add the path to jupyter notebook
-- Dowland data for BC (https://drive.google.com/file/d/1qi3QEYamKcGypw0HPhwI5L0mwHWHR6EP/view?usp=sharing), [data_link2](https://drive.google.com/file/d/1b0mVKbzh60L3hjPX0lvt-n03IyphTquI/view?usp=sharing))
+- Dowland data for BC [data_link1](https://drive.google.com/file/d/1qi3QEYamKcGypw0HPhwI5L0mwHWHR6EP/view?usp=sharing), [data_link2](https://drive.google.com/file/d/1b0mVKbzh60L3hjPX0lvt-n03IyphTquI/view?usp=sharing))
