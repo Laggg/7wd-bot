@@ -1,5 +1,10 @@
 # RL based agent for board card game «‎7 Wonders: Duel»
 
+
+![](demo/7wd_1.png)
+
+![](demo/7wd_2.png)
+
 ## Requirements
 
 1. Clone https://github.com/dfomin/7wd-engine
