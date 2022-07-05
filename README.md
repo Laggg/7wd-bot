@@ -7,8 +7,10 @@ Our approach is similar to the [DeepMind's AlphaGo solution](https://www.deepmin
 we use Monte Carlo Tree Search (MCTS) with Behavior Cloning (BC) finishers.
 
 For building tree search graph we use [7wd-engine](https://github.com/dfomin/7wd-engine) which was created by [@dfomin](https://github.com/dfomin).
+
 For training game finisher we use ~8000 games of real players.
 
+"Game finisher" is a policy model, which can choose action in some game state. 'action = Model(state)'
 ![](demo/7wd_2.png)
 
 ## Requirements
