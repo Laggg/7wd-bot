@@ -10,27 +10,22 @@ we use Monte Carlo Tree Search (MCTS) with Behavior Cloning (BC) finishers. For 
 
 Game finisher is a policy model, which can choose action in some game state: **Action = model(State)**.
 
-Posible Action - each received card can be
+Posible Action - each received card can be:
 - built
 - discarded for coins
 - used to create a world wonder
  
 State consist of:
-- the strength of each of the players
+- the strength of each of the players (resources, army, science etc.)
 - information about spreaded cards, each card has embedding vector
-- card embedding consists of:
- - .
- - .
+- card embedding consists of semantic and informational part (semantic part depends on other builded cards - similar to word2vec approach)
+- type of spreaded cards: open-availabled card, open-unavailabled card, closed card, builded card.
 
 Model consis of:
 - linear layers
 - relu activations
 
 ![](demo/7wd_2.png)
-
-
-
-
 
 
 ## Additional requirements (Python 3.9+ is supported)
