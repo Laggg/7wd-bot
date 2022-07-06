@@ -18,7 +18,7 @@ Posible Action - each received card can be:
 State consist of:
 - the strength of each of the players (resources, army, science etc.)
 - information about spreaded cards, each card has embedding vector
-- card embedding consists of semantic and informational part (semantic part depends on other builded cards - similar to word2vec approach)
+- card embedding consists of semantic and informational part (semantic part depends on other builded cards - similar to word2vec)
 - type of spreaded cards: open-availabled card, open-unavailabled card, closed card, builded card.
 
 Model consis of:
